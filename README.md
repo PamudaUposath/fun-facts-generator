@@ -14,7 +14,7 @@ A simple web application that displays a random fun fact at the click of a butto
 
 
 ## 🖼️ Preview
-![Fun Facts Generator Preview](https://pamudauposath.github.io/fun-facts-generator/)
+Check out the live version of the Personal Fun Facts Generator here: [Live Preview](https://pamudauposath.github.io/fun-facts-generator/)
 
 ## 🛠️ Technologies Used
 - **HTML**: For the structure of the webpage.
